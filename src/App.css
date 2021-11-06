@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Stylish&display=swap');
+/* Path: fake-stor-react\src\App.css */
 
 body{
     font-family: 'Stylish', sans-serif;
@@ -22,6 +23,7 @@ p{
     color: aqua;
     text-align: center;
 }
+
 .container{
 /*background-color: rgb(253, 253, 255);*/
 max-width: 1300px;
